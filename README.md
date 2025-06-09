@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Nxcol</h1>
 <p align="center">
   <img src="https://i.pinimg.com/736x/35/3a/ed/353aed2a738264f0c6f33b114df440bb.jpg" width="200" />
+</p>
 
+---
 
 ## 💻 About Me
 I'm **Nxcol**, an aspiring **Cybersecurity Professional** with a strong passion for:
@@ -11,6 +13,14 @@ I'm **Nxcol**, an aspiring **Cybersecurity Professional** with a strong passion 
 - 🛡️ Ethical Hacking
 
 I'm a **hands-on learner** who enjoys solving real-world problems through **labs**, **projects**, and **CTF challenges**.
+
+---
+
+## 🧠 Skills & Certifications
+- 🎓 **Microsoft Azure Fundamentals** Certified
+- 📡 **Level 5** in **Cloud & Networking**
+- 💻 **Level 2 & 3** in **Coding**
+- 📊 **Level 2** in **Data Analysis**
 
 ---
 
@@ -24,8 +34,8 @@ I'm a **hands-on learner** who enjoys solving real-world problems through **labs
 ## 🌱 What I'm Learning
 - Cybersecurity fundamentals
 - Forensic workflows & investigation techniques
-- Python scripting for security tasks - Languages 
-- AWS & other cloud security tools
+- Python scripting for security tasks
+- AWS & Azure cloud tools
 
 ---
 
@@ -51,7 +61,7 @@ I'm a **hands-on learner** who enjoys solving real-world problems through **labs
 
 ---
 
-## A Bit More About Me
+## 🎭 A Bit More About Me
 - Pronouns: **SHE/HER**
 - ⚡ Fun Fact: I'm a **professional dancer** with a degree in **Musical Theatre** and specialize in **Street Dance**, among others!
 
@@ -60,3 +70,6 @@ I'm a **hands-on learner** who enjoys solving real-world problems through **labs
 <p align="center">
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="180" />
   <img src="https://media.giphy.com/media/8UGoPC3qV2v5n4fWxS/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/26xBsMKWlM6Qylq7y/giphy.gif" width="200" />
+</p>
+
