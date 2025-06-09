@@ -51,7 +51,7 @@ I'm a **hands-on learner** who enjoys solving real-world problems through **labs
 
 ---
 
-## 👩‍🎤 A Bit More About Me
+## A Bit More About Me
 - Pronouns: **SHE/HER**
 - ⚡ Fun Fact: I'm a **professional dancer** with a degree in **Musical Theatre** and specialize in **Street Dance**, among others!
 
