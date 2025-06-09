@@ -59,5 +59,5 @@ I'm a **hands-on learner** who enjoys solving real-world problems through **labs
 
 <p align="center">
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/UtH3Nj1tF3G1q/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/2wSa3xzfilI6Pp2ls2/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/8UGoPC3qV2v5n4fWxS/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/7rj2ZgttvgomY/giphy.gif" width="200" />
