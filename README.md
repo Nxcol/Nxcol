@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nxcol</h1>
 <p align="center">
-<img src="https://i.pinimg.com/originals/6f/f7/34/6ff7349a19c3d37a187cb3b0b1761ad6.jpg" width="236" />
+  <img src="https://i.pinimg.com/originals/6f/f7/34/6ff7349a19c3d37a187cb3b0b1761ad6.jpg" width="236" />
+</p>
 
 
 ---
