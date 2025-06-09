@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nxcol</h1>
 <p align="center">
-  <img src="[https://media.giphy.com/media/fxGPSYcRJQfsQqNM0E/giphy.gif" width="200](https://i.pinimg.com/736x/35/3a/ed/353aed2a738264f0c6f33b114df440bb.jpg)" />
-</p>
+  <img src="https://i.pinimg.com/736x/35/3a/ed/353aed2a738264f0c6f33b114df440bb.jpg" width="200" />
+
 
 ## 💻 About Me
 I'm **Nxcol**, an aspiring **Cybersecurity Professional** with a strong passion for:
