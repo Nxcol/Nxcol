@@ -24,7 +24,7 @@ I'm a **hands-on learner** who enjoys solving real-world problems through **labs
 ## 🌱 What I'm Learning
 - Cybersecurity fundamentals
 - Forensic workflows & investigation techniques
-- Python scripting for security tasks
+- Python scripting for security tasks - Languages 
 - AWS & other cloud security tools
 
 ---
