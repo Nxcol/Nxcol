@@ -69,7 +69,7 @@ I'm a **hands-on learner** who enjoys solving real-world problems through **labs
 
 <p align="center">
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/8UGoPC3qV2v5n4fWxS/giphy.gif" width="200" />
+  <img src="https://i.pinimg.com/736x/35/3a/ed/353aed2a738264f0c6f33b114df440bb.jpg" width="200" />
   <img src="https://media.giphy.com/media/26xBsMKWlM6Qylq7y/giphy.gif" width="200" />
 </p>
 
